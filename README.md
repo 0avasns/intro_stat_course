@@ -54,14 +54,14 @@ Please watch the videos in the indicated order.
 | 27 | [Central limit theorem](https://youtu.be/qYJoNnYBq8Y) | 12′ 34″ | A graphical demonstration of the central limit theorem, which allows us to make inferences using the properties of the normal distribution. |
 | 28 | [Standard error](https://youtu.be/xR01CFogWbg) | 14′ 08″ | What the standard error is and why it is important. |
 | 29 | [Margin of error and confidence interval](https://youtu.be/2QKKtP4mpLk) | 19′ 44″ | What confidence intervals are, how they are computed, and how they should be interpreted. |
-| 30 | []() | ′ ″ |  |
-| 31 | []() | ′ ″ |  |
-| 32 | []() | ′ ″ |  |
-| 33 | []() | ′ ″ |  |
-| 34 | []() | ′ ″ |  |
-| 35 | []() | ′ ″ |  |
-| 36 | []() | ′ ″ |  |
-| 37 | []() | ′ ″ |  |
+| 30 | [The null hypothesis](https://youtu.be/MYZZNF5IYgU) | 27′ 40″ |  What the null hypothesis is and how it is used in classical inferential statistics (the most counterintuitive concept in the entire course). |
+| 31 | [Statistical power](https://youtu.be/sziyXesXr4Q) | 28′ 16″ | The notion of statistical power in null hypothesis significance testing (NHST). |
+| 32 | [The process of NHST](https://youtu.be/0qy1avY3ocI) | 25′ 04″ | The notion of statistical significance in the context of statistical testing of associations between variables. |
+| 33 | [The &chi;<sup>2</sup> test of proportions](https://youtu.be/P9lWWAvZHCk) | 31′ 04″ | The chi-square (&chi;<sup>2</sup>) test of proportions for a single variable. |
+| 34 | [Contingency tables](https://youtu.be/x7kHhlB47UY) | 39′ 34″ | Introduction to contingency tables and the &chi;<sup>2</sup> test of proportions for two variables (i.e., a 2&times;2 matrix).  |
+| 35 | [Diagnostic performance](https://youtu.be/3J7Mn4TQyto) | 23′ 33″ | Indices of diagnostic performance for a 2&times;2 contingency table. |
+| 36 | [Running &chi;<sup>2</sup> tests in Jamovi](https://youtu.be/C3D1-ybfOlc) | 5′ 59″ | How to run &chi;<sup>2</sup> tests in Jamovi. |
+| 37 | [Contingency tables in Excel](https://youtu.be/xcBCzpTattE) | 10′ 26″ | How to use formulas in Excel to calculate indices of diagnostic performance and conduct &chi;<sup>2</sup> tests. |
 | 38 | []() | ′ ″ |  |
 | 39 | []() | ′ ″ |  |
 | 40 | []() | ′ ″ |  |
@@ -81,6 +81,9 @@ Online apps to further explore the basic concepts:
 * [p value calculator](https://protopap.shinyapps.io/pval/)
 * [Distribution sampler](https://protopap.shinyapps.io/pval/)
 * [The correlation game](https://openintro.shinyapps.io/correlation_game/)
+* [Type I and Type II errors, β, α, p-values, power and effect sizes](https://rpsychologist.com/d3/nhst/)
+* [Errors and power in significance testing](https://istats.shinyapps.io/power/) *(choose "population mean" at the top of the page, then "two-sided" alternative hypothesis, and check to display "Power")*
+* [Distribution of Cohen's d, p values, and power](https://lakens.shinyapps.io/p-curves/) *(Cohen's d is the effect size)*
 
 # Feedback
 

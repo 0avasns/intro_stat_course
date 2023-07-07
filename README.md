@@ -46,8 +46,25 @@ Please watch the videos in the indicated order.
 | 19 | [z scores in Jamovi](https://youtu.be/T5oXol-PYAM) | 8′ 13″ | How to compute z scores in (an older version of) Jamovi. (*Note:* Jamovi version 1.6 and later has a ROUND function that does what we would expect, so we don't need to use INT for rounding any more.) |
 | 20 | [Excel formulas](https://youtu.be/4JUtx9TiWyM) | 20′ 06″ | How to use Excel formulas to calculate basic statistics, standard and standardized scores, and percentiles. |
 | 21 | [Percentiles](https://youtu.be/O2gOGLuFDsw) | 8′ 16″ | What percentiles are (and clarifications of the confusing terminology). |
-| 22 | []() | ′ ″ |  |
-| 23 | []() | ′ ″ |  |
+| 22 | [Evaluating normality](https://youtu.be/BWGyxd6j6uc) | 46′ 09″ | How to evaluate the degree to which datasets approximate the normal distribution. |
+| 23 | [Statistical associations](https://youtu.be/Zx10vifY4wM) | 47′ 18″ | How to conceptualize and graphically evaluate statistical associations among variables. |
+| 24 | [Variable assessment in Jamovi](https://youtu.be/KGDOx4-HUbY) | 3′ 19″ | How to assess and evaluate variables using Jamovi. |
+| 25 | [Sampling and samples](https://youtu.be/prLqbCvDUoc) | 14′ 55″ | What sampling is and why it is important. |
+| 26 | [Sampling distributions](https://youtu.be/5O2w9xj2uJw) | 11′ 12″ | Introduction to the notion of the sampling distribution, the most important concept for understanding classical inferential statistics. |
+| 27 | [Central limit theorem](https://youtu.be/qYJoNnYBq8Y) | 12′ 34″ | A graphical demonstration of the central limit theorem, which allows us to make inferences using the properties of the normal distribution. |
+| 28 | [Standard error](https://youtu.be/xR01CFogWbg) | 14′ 08″ | What the standard error is and why it is important. |
+| 29 | [Margin of error and confidence interval](https://youtu.be/2QKKtP4mpLk) | 19′ 44″ | What confidence intervals are, how they are computed, and how they should be interpreted. |
+| 30 | []() | ′ ″ |  |
+| 31 | []() | ′ ″ |  |
+| 32 | []() | ′ ″ |  |
+| 33 | []() | ′ ″ |  |
+| 34 | []() | ′ ″ |  |
+| 35 | []() | ′ ″ |  |
+| 36 | []() | ′ ″ |  |
+| 37 | []() | ′ ″ |  |
+| 38 | []() | ′ ″ |  |
+| 39 | []() | ′ ″ |  |
+| 40 | []() | ′ ″ |  |
 
 # Additional resources used in the course
 
@@ -63,6 +80,7 @@ Online apps to further explore the basic concepts:
 * [Critical value calculator](https://protopap.shinyapps.io/critval/)
 * [p value calculator](https://protopap.shinyapps.io/pval/)
 * [Distribution sampler](https://protopap.shinyapps.io/pval/)
+* [The correlation game](https://openintro.shinyapps.io/correlation_game/)
 
 # Feedback
 

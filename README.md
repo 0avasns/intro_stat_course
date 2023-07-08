@@ -47,7 +47,7 @@ Please watch the videos in the indicated order.
 | 20 | [Excel formulas](https://youtu.be/4JUtx9TiWyM) | 20′ 06″ | How to use Excel formulas to calculate basic statistics, standard and standardized scores, and percentiles. |
 | 21 | [Percentiles](https://youtu.be/O2gOGLuFDsw) | 8′ 16″ | What percentiles are (and clarifications of the confusing terminology). |
 | 22 | [Evaluating normality](https://youtu.be/BWGyxd6j6uc) | 46′ 09″ | How to evaluate the degree to which datasets approximate the normal distribution. |
-| 23 | [Statistical associations](https://youtu.be/Zx10vifY4wM) | 47′ 18″ | How to conceptualize and graphically evaluate statistical associations among variables. |
+| 23 | [Statistical associations](https://youtu.be/Zx10vifY4wM) | 47′ 18″ | How to conceptualize and graphically evaluate statistical associations among variables. <br>*Warning:* Long video! |
 | 24 | [Variable assessment in Jamovi](https://youtu.be/KGDOx4-HUbY) | 3′ 19″ | How to assess and evaluate variables using Jamovi. |
 | 25 | [Sampling and samples](https://youtu.be/prLqbCvDUoc) | 14′ 55″ | What sampling is and why it is important. |
 | 26 | [Sampling distributions](https://youtu.be/5O2w9xj2uJw) | 11′ 12″ | Introduction to the notion of the sampling distribution, the most important concept for understanding classical inferential statistics. |
@@ -62,9 +62,23 @@ Please watch the videos in the indicated order.
 | 35 | [Diagnostic performance](https://youtu.be/3J7Mn4TQyto) | 23′ 33″ | Indices of diagnostic performance for a 2&times;2 contingency table. |
 | 36 | [Running &chi;<sup>2</sup> tests in Jamovi](https://youtu.be/C3D1-ybfOlc) | 5′ 59″ | How to run &chi;<sup>2</sup> tests in Jamovi. |
 | 37 | [Contingency tables in Excel](https://youtu.be/xcBCzpTattE) | 10′ 26″ | How to use formulas in Excel to calculate indices of diagnostic performance and conduct &chi;<sup>2</sup> tests. |
-| 38 | []() | ′ ″ |  |
-| 39 | []() | ′ ″ |  |
-| 40 | []() | ′ ″ |  |
+| 38 | [The one-sample t-test](https://youtu.be/qXWeD23IIBs) | 23′ 38″ | Explanation and graphical demonstration of the 1-sample t test. |
+| 39 | [The independent-samples t-test](https://youtu.be/rd-6qdHASPc) | 26′ 17″ | The independent-samples t test: How to calculate, use, evaluate, interpret, and report it. |
+| 40 | [The paired-samples t-test](https://youtu.be/RKp3pj67fPg) | 9′ 20″ | The paired-samples t test: A simple application of the 1-sample t test to differences. |
+| 41 | [Non-parametric comparisons](https://youtu.be/nMREys9yEG4) | 24′ 28″ | How to compare sets of measurements when the t test assumptions are violated: Nonparametric tests.  |
+| 42 | [Comparing groups in Jamovi](https://youtu.be/ihNo8O6TTLc) | 18′ 27″ | How to compare groups in Jamovi using the various t tests and alternative nonparametric tests. |
+| 43 | [Correlation coefficient](https://youtu.be/Ab5Sa8o_5Vg) | 28′ 54″ | Visually explanation of the correlation coefficient, its calculation and its assumptions. |
+| 44 | [Non-parametric correlation](https://youtu.be/O0uRqw35boo) | 7′ 57″ | A brief presentation of nonparametric correlation coefficients (Spearman's &rho;). |
+| 45 | [Correlation in Jamovi](https://youtu.be/lrXn0fl_5xo) | 2′ 46″ | How to run correlation analyses in Jamovi.  |
+| 46 | [Oneway ANOVA](https://youtu.be/hxctOauedco) | 48′ 31″ | A visual and conceptual explanation of oneway analysis of variance, its calculation and use. <br>*Warning:* Long video! |
+| 47 | [Factorial ANOVA](https://youtu.be/ydJtlX7wbuk) | 34′ 52″ | Introduction to the notion of statistical interaction and factorial ANOVA. Interpretation of basic ANOVA tables (without calculation). |
+| 48 | [Repeated measures](https://youtu.be/S0H7INHKSco) | 25′ 28″ | A simplified introduction to repeated measures and mixed-design ANOVA, focusing on graphs and tables.  |
+| 49 | [ANOVA in Jamovi](https://youtu.be/xLeTmqLFW98) | 21′ 56″ | How to run analyses of variance in Jamovi (and read and interpret the output). |
+| 50 | [Simple linear regression](https://youtu.be/GVhEih0T7FY) | 49′ 48″ | Simple linear regression: Visual explanation, evaluation, interpretation. <br>*Warning:* Long video! |
+| 51 | [Regression in Jamovi](https://youtu.be/BgI6XUBvlh8) | 23′ 02″ | How to run regression analyses in Jamovi (and read and interpret the output); including hiearchical multiple regressions. |
+| 52 | [Test reliability](https://youtu.be/wK1EjTQALYE) | 25′ 20″ | The notion of test reliability, focusing on how internal consistency is calculated (Cronbach's &alpha;). |
+| 53 | [Reliability analysis in Jamovi](https://youtu.be/yjfxBAB8eak) | 6′ 26″ | How to run analyses of internal consistency in Jamovi. |
+| 54 | [Exponential notation](https://youtu.be/23HOqG3-xxw) | 3′ 35″ | Supplement on exponential notation", that is, the way computer programs (including statistics programs) display numbers that are very large or very small. |
 
 # Additional resources used in the course
 

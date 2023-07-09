@@ -93,7 +93,7 @@ Online apps to further explore the basic concepts:
 * [Probability display](https://protopap.shinyapps.io/pnorm/)
 * [Critical value calculator](https://protopap.shinyapps.io/critval/)
 * [p value calculator](https://protopap.shinyapps.io/pval/)
-* [Distribution sampler](https://protopap.shinyapps.io/pval/)
+* [Distribution sampler](https://protopap.shinyapps.io/distsample/)
 * [The correlation game](https://openintro.shinyapps.io/correlation_game/)
 * [Type I and Type II errors, β, α, p-values, power and effect sizes](https://rpsychologist.com/d3/nhst/)
 * [Errors and power in significance testing](https://istats.shinyapps.io/power/) *(choose "population mean" at the top of the page, then "two-sided" alternative hypothesis, and check to display "Power")*
